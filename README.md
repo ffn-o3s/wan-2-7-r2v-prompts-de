@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan-2-7-r2v-api-de](https://github.com/ffn-o3s/wan-2-7-r2v-api-de)
+- **Same model, other languages** — 9 more language builds: 中文 `wan-2-7-r2v-api-cn` · Español [wan-2-7-r2v-api-es](https://github.com/j4mcxueyfsi/wan-2-7-r2v-api-es) · Français `wan-2-7-r2v-api-fr` · Relay/gateway [wan-2-7-r2v-api-gateway](https://github.com/mkk8f7hh/wan-2-7-r2v-api-gateway) · Bahasa [wan-2-7-r2v-api-id](https://github.com/mdhmu6vfch/wan-2-7-r2v-api-id) · 日本語 `wan-2-7-r2v-api-ja` · 한국어 `wan-2-7-r2v-api-ko` · Português [wan-2-7-r2v-api-pt](https://github.com/qgupf/wan-2-7-r2v-api-pt) · Русский [wan-2-7-r2v-api-ru](https://github.com/yesjbbz38yev4/wan-2-7-r2v-api-ru)
+- **More models in this language** — [midjourney-api-de](https://github.com/h5fd0cofy/midjourney-api-de) · [gemini-2-5-flash-image-preview-api-de](https://github.com/kn6f69s2b8j9/gemini-2-5-flash-image-preview-api-de) · [nano-banana-api-de](https://github.com/uh6cob8op/nano-banana-api-de) · [gemini-3-1-flash-image-preview-api-de](https://github.com/k8wq8pd46e5ku/gemini-3-1-flash-image-preview-api-de) · [nano-banana-2-api-de](https://github.com/mocpl3/nano-banana-2-api-de) · [gemini-3-pro-image-preview-api-de](https://github.com/cmpxx2w/gemini-3-pro-image-preview-api-de)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7-r2v](https://github.com/topics/wan-2-7-r2v) · [wan-2-7-r2v-api](https://github.com/topics/wan-2-7-r2v-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
